@@ -1,4 +1,4 @@
-# 🌿 OSINT Tool (Green Edition)
+# 🌿 OSINT Tool
 
 Une application simple avec interface graphique (GUI) permettant d’analyser une adresse IP باستخدام des outils OSINT.
 
