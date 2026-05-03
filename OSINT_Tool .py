@@ -38,7 +38,7 @@ subtitle.pack()
 entry = tk.Entry(root, width=30, font=("Arial", 12),
                  bd=2, relief="groove", justify="center")
 entry.pack(pady=15)
-entry.insert(0, "192.168.10.108")
+entry.insert(0, "151.101.1.69")
 
 frame = tk.Frame(root, bg="#e8f5e9")
 frame.pack(pady=10)
